@@ -1,0 +1,3 @@
+# Project dependencies for Online Voting System
+# Install with: pip install -r requirements.txt
+
