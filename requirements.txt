@@ -1,4 +1,4 @@
-# Project dependencies for Online Voting System
-# Install with: pip install -r requirements.txt
-Flask==2.3.0
-Werkzeug==2.3.0
+Flask==3.0.0
+Werkzeug==3.0.0
+gunicorn==21.2.0
+setuptools==69.0.0
