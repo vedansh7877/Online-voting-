@@ -1,3 +1,4 @@
 # Project dependencies for Online Voting System
 # Install with: pip install -r requirements.txt
-
+Flask==2.3.0
+Werkzeug==2.3.0
